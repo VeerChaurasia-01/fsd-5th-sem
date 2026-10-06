@@ -1,0 +1,17 @@
+header{
+    text-align: center;
+    background-color: antiquewhite;
+  
+}
+#prod-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 10px;
+     
+
+   
+;
+}
+prod-container div{
+    text-align: center;
+}
